@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Day Planner",
+      "image": "../public/assets/images/dayplanner.png"
+      
+    },
+    {
+      "id": 2,
+      "name": "Weather Dashboard",
+      "image": "../public/assets/images/weather.png"
+      
+    },
+    {
+      "id": 3,
+      "name": "Burgers ORM",
+      "image": "../public/assets/images/daburger.png"
+      
+    },
+    {
+      "id": 4,
+      "name": "React User Directory",
+      "image": "../public/assets/images/userdirect.png"
+      
+    },
+    {
+      "id": 5,
+      "name": "API Project",
+      "image": "../public/assets/images/travel.png"
+    
+    },
+    {
+      "id": 6,
+      "name": "Database Project",
+      "image": "../public/assets/images/buildadate.png"
+      
+    }
+]
